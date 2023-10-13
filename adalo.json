@@ -1,0 +1,12 @@
+{
+  "displayName": "NC Bar Chart",
+  "components": [
+    {
+      "name": "NCBarChart",
+      "manifest": "./src/components/NCBarChart/manifest.json"
+    }
+  ],
+  "author": "NoCode Monkey",
+  "description": "Bar Chart",
+  "logo": "./example-logo.png"
+}

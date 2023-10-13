@@ -1,0 +1,25 @@
+{
+  "name": "nc-bar-chart",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "author": "",
+  "scripts": {
+    "start": "adalo dev",
+    "login": "adalo login",
+    "publish": "adalo publish"
+  },
+  "devDependencies": {
+    "@adalo/cli": "^0.0.55",
+    "react": "^16.9.0",
+    "react-art": "^16.6.0",
+    "react-dom": "^16.9.0",
+    "react-native-web": "^0.9.5"
+  },
+  "dependencies": {
+    "react-native-svg": "^13.8.0",
+    "victory": "^36.6.11",
+    "victory-native": "^36.6.11"
+  }
+}
